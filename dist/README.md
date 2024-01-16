@@ -2,6 +2,8 @@
 TEST
 
 
+* kom i håg    ==>       tsc -w
+
 https://github.com/Lucifer87878/goran-rainbow-unicorn
 
 
