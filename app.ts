@@ -1,13 +1,24 @@
-let animals = ["apa", "orangutang", "gorilla", "get", "giraff"];
+// en Array med djur som sen skrivs ut i consolen
+const animal = ["apa", "orangutang", "gorilla", "get", "giraff"];
 
-console.log(animals);
+console.log(animal);
 
-
-var mittObjekt = {
-    strang: "Detta är en sträng",
-    siffra: 42,
-    boolean: true
+//Skapa objekt med tre egenskaper och skriva ut i consolen 
+const mittObjekt = {
+  strang: "Hi, I'm a string",
+  siffra: 42,
+  boolean: true,
 };
 
-// Skriv ut objektet till konsolen
 console.log(mittObjekt);
+
+//funktion som tar emot en sträng och returnerar en sträng
+function greeting(str) {
+  return "Hi " + str;
+}
+
+//Loopa igenom arrayen av strängar och kör funktionen på varje sträng
+for (let i = 0; i < animal.length; i++) {
+  const outcome = greeting(animal[i]);
+  console.log(outcome);
+}

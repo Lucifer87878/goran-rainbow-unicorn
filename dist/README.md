@@ -5,6 +5,8 @@ TEST
 https://github.com/Lucifer87878/goran-rainbow-unicorn
 
 
+
+
 1. Skapa ett nytt repo på Github. Döp det till “förnamn-rainbow-unicorn” --ok
 
 2. inkl Readme med en kort beskrivning av att detta är en övning i Typescript --ok
@@ -31,7 +33,7 @@ https://github.com/Lucifer87878/goran-rainbow-unicorn
 
 13. Commita och pusha till github (om koden fungerar). --ok
 
-14. Skriv en funktion som tar emot en sträng och returnerar en sträng. Om funktionen tar emot strängen “X” ska den returnera strängen “hej X”. Funktionen ska kunna ta emot vilken sträng som helst och skicka tillbaka en sträng med hej först.
+14. Skriv en funktion som tar emot en sträng och returnerar en sträng. Om funktionen tar emot strängen “X” ska den returnera strängen “hej X”. Funktionen ska kunna ta emot vilken sträng som helst och skicka tillbaka en sträng med hej först. --ok
 
 15. Loopa igenom arrayen av strängar och kör funktionen på varje sträng och skriv ut till konsollen det du får från arrayen.
-Kompilera, kör, commita och pusha. Reagera med 👑
+Kompilera, kör, commita och pusha. Reagera med 👑 --ok
